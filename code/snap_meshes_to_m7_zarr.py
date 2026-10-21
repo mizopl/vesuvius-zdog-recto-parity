@@ -31,7 +31,7 @@ import numpy as np
 import tifffile
 from scipy.ndimage import distance_transform_edt, gaussian_filter
 
-BASE_DIR = Path("/Users/blister/.gemini/antigravity/brain/0adb9c02-dee8-451d-983f-5070b954f30b/scratch/vesuvius-unread-hunt")
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 S3_M7_CONFIG = {
     "PHerc1203": {

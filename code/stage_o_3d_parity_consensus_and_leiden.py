@@ -46,7 +46,7 @@ import cv2
 import numpy as np
 from scipy.ndimage import gaussian_filter
 
-ROOT = Path("/Users/blister/.gemini/antigravity/brain/0adb9c02-dee8-451d-983f-5070b954f30b/scratch/vesuvius-unread-hunt")
+ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "code"))
 
 from stage_f_sheet_tracker_and_paleography import (

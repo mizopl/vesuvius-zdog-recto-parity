@@ -14,7 +14,7 @@ import tarfile
 import time
 from pathlib import Path
 
-BASE_DIR = Path("/Users/blister/.gemini/antigravity/brain/0adb9c02-dee8-451d-983f-5070b954f30b/scratch/vesuvius-unread-hunt")
+BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR / "code"))
 from colab_stage_i_wide_scout import REMOTE_SETUP_SCRIPT, run_colab
 from colab_stage_l_gpu_promoter import build_remote_script
