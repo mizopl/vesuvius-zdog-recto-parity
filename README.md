@@ -2,6 +2,8 @@
 
 > **🌟 Part of the [`mizopl/we-star` (`We*`)](https://github.com/mizopl/we-star) Autonomous Scientific Discovery Project:**
 > This standalone verification repository is one of 39 machine-verified packages produced by [**`mizopl/we-star`** (`We* = human + AI + autonomous 3-skeptic verification loop`)](https://github.com/mizopl/we-star) on a single 16 GB Apple M1 laptop. Visit [**`github.com/mizopl/we-star`**](https://github.com/mizopl/we-star) for the complete architecture, constitution, and master table of results across 29 open problems.
+>
+> **Inspiration & Benchmark Catalyst (`@elder-plinius` / `V3R1T4S`):** Directly inspired by **[Pliny (`@elder-plinius`)](https://github.com/elder-plinius)** and the **[`elder-plinius/V3R1T4S`](https://github.com/elder-plinius/V3R1T4S)** open-science benchmark, whose zero-trust *Verify-It-Yourself* ethos and frontier problem curation catalyzed both this work and the [`mizopl/we-star`](https://github.com/mizopl/we-star) engine.
 
 Open-source toolkit for **non-hallucinatory thin-layer ink extraction**, **3D geometric *recto/verso* normal-parity rectification**, and **strict Leiden diplomatic decoding** on unread Herculaneum scroll volumes (`PHerc. 1203`, `PHerc. 0800`, `PHerc. 0125`, and `PHerc. 0846A`).
 
